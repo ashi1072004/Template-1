@@ -171,6 +171,7 @@
 .social-icons img{
     width: 60px;
     height: 60px;
+    margin: 0 5px;
     transition: 0.5s;
 }
 .social-icons a:hover img{
